@@ -1,16 +1,9 @@
-# animalrescue
+# Animal Resuce
 
-A new Flutter project.
+An app for both IOS and Android that attempts to raise awareness about certain animals that are on the brink of extinction.
 
-## Getting Started
+Sample images:
 
-This project is a starting point for a Flutter application.
+![Sample1](https://user-images.githubusercontent.com/48700188/172508915-fe48c2eb-0433-4955-a722-c944c4ed1c09.PNG)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Sample2](https://user-images.githubusercontent.com/48700188/172508922-afde834d-4f36-44ac-b728-0271f7432de1.PNG)
